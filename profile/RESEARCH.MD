@@ -12,3 +12,4 @@ Urea, also known as carbamide, is a safe, useful compound with a significant his
 See first link on Important Links section.
 ## Important Links
 https://www.youtube.com/watch?v=sfldS5hqWYA
+https://phys.org/news/2022-06-human-urine-natural-fertilizer-crops.html
