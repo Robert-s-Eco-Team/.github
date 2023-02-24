@@ -11,5 +11,7 @@ Urea, also known as carbamide, is a safe, useful compound with a significant his
 ### Converting urine to urea and phosphourus
 See first link on Important Links section.
 ## Important Links
-https://www.youtube.com/watch?v=sfldS5hqWYA \n
-https://phys.org/news/2022-06-human-urine-natural-fertilizer-crops.html \n
+https://www.youtube.com/watch?v=sfldS5hqWYA
+
+
+https://phys.org/news/2022-06-human-urine-natural-fertilizer-crops.html
