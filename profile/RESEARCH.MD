@@ -10,6 +10,14 @@ Nitrogen plays a critical role within the plant to ensure energy is available wh
 Urea, also known as carbamide, is a safe, useful compound with a significant history. It is a naturally occurring molecule that is produced by protein metabolism and found abundantly in mammalian urine.
 ### Converting urine to urea and phosphourus
 See first link on Important Links section.
+### Nitric Acid Creation Process
+1. Produce hydrogen by producing an electric current through water.
+2. Combine said hydrogen with nitrogen to create ammonia.
+3. Combine ammonia with oxygen to make nitrogen oxide.
+4. Combine nitrogen oxide with air to make nitrogen dioxide.
+5. Combine nitrogen dioxide with water to make nitric acid.
+### Considerations
+To get nitrogen for making ammonia, we might team up with universities who have already done this to be given this ntriogen/nitrate.
 ## Important Links
 https://www.youtube.com/watch?v=sfldS5hqWYA
 
