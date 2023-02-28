@@ -20,6 +20,10 @@ See first link on Important Links section.
 To get nitrogen for making ammonia, we might team up with universities who have already done this to be given this ntriogen/nitrate.
 ### Alternative for nitric acid
 *__Original Link: http://www.sciencemadness.org/talk/viewthread.php?tid=16330#:~:text=Alternative%20to%20Nitric%20acid%20%2Fresearch%201.%20Add%20Vinegar,as%20above.%20The...%203.%20Dissolve%20Cl2O%20in%20water%3A__*
+
+
+
+
 Warning!
 
 This compound schould not mixed with : nitrogen compound and HCl this compound is very corrosive to human tissu and at high consentration can make fire with organic.
