@@ -24,44 +24,36 @@ To get nitrogen for making ammonia, we might team up with universities who have 
 
 
 
-Warning!
+How to Make Dilute HClO Inexpensively:
 
-This compound schould not mixed with : nitrogen compound and HCl this compound is very corrosive to human tissu and at high consentration can make fire with organic.
-If you arrent experienced with oxidizer , dont do this. NEVER mix it with something that you dont know the product of reaction.
+1. Add Vinegar to Bleach (NaClO) and heat to drive off mostly Cl2O, chlorine monoxide the anhydride of HClO.
 
-Precaussion for improuvement:
-when you synthesis make sure that NO chloride salt is present , So dont think using Calcium Hypochlorite instaid , ive ear that Lithium hypochlorite could substitute the Sodium hypochlorite , this could be an improuvement
+2. Use Seltzer water (H2CO3) to NaClO in place of acetic acid. Wait for at least a day, and proceed as above. The chemistry is:
 
-Reagent:
-10% NaOCl Pool industry grade
-H2SO4 98% ACS Reagent
-H2O Distiled
-CHCl3 Triple distilled
-Experimental
+NaClO + H2CO3 = NaHCO3 + HClO
 
-Take 14.9g of 10% NaOCl and ad it to and Round Bottom Boiling Flask .Instal an bubler trough 5ml of CHCl3 in a test tube , witch will be cooled in HCl snow mixture to The Trichloromethane layer ad 4 g of distilld water. Ad to the RBF 12g of H2SO4 (the real molar ratio is 0.98g but it need more tho hydrolise the HOCl). After 5min of seting heat the mixture(keep the temperature to 50-65 degree C) , stop when white fume evolve.
+3. Dissolve Cl2O in water:
 
-This is suposed to hapen:
-2NaOCL + H2SO4 -) Na2SO4 + 2HOCl
-but with ot temp the H2SO4 hydrolise the HOCl:
-2HOCl-) H2O + Cl2O
-the Cl2O is a gas , it will disolve in the 5ml of distill water to make HOCl , some peaple will probably think that it will disproportionnate to Cl2 , but this appen just in the presense of Cloride ion.
+Cl2O + H2O = 2HClO
 
-This also appen:
-2CHCl3 + Cl2O -) 2CCl4 + H2O
+where Cl2O is reputedly created by passing Cl2 into KOH. Note, I have not attempted this method which is mentioned in some earlier chemistry text.
 
+Note, only dilute solutions of HClO are stable. HClO readily decomposes especially if concentrated with the dominant reaction as follows:
 
+3 HClO = HClO3 + 3 HCl
 
-You will get about 15ml of 5-6% HOCl.
+This is an important point as you may be producing some chlorates unknowingly. Solutions and the dry salt of Ammonium Chlorate (and heavy metals), for example, should be particularly avoided given there, at times, sensitive and highly explosive behavior.
 
-futur improuvement and note: better source of hypochlorite ion , better setup , better cooling.H2SO4 can be substitued with H3PO4 Or citric acid , the last one being the best but i have only 25g of it.
+To are lesser degree, pure HClO will decompose as follows:
 
-the mode of opperation of the acid is this:
+2 HClO = 2 HCl + O2
 
-2HOCl + 2Cu -) CuCl2 + CuO + H2O
+however, in the presence for example of H2O2, CuO, CoO and organic material, the release of O2 is accelerated. Also, in the presence of HCl, there is an equilibrium reaction producing chlorine water:
 
-Other interessing compound :
-Peracetic acid
+HCl + HClO <==> H2O + Cl2
+
+Heat and light are know to increase the rate of HClO decomposition for both reactions noted.
+
 ## Important Links
 https://www.youtube.com/watch?v=sfldS5hqWYA
 
