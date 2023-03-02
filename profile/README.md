@@ -14,4 +14,6 @@ The Contributors are members who helped contribute to the team in general. The m
 We have collaborated with other circular economy submissions to support each other and secure our chance of being a great circular economy orginization.
 
 The-big-days (forked): https://rafael-s-eco-team.github.io/The-big-days.github.io/
+
+
 Garden Starters: https://rafael-s-eco-team.github.io/Garden-Starters.github.io/
