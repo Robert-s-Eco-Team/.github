@@ -68,6 +68,10 @@ https://phys.org/news/2022-06-human-urine-natural-fertilizer-crops.html
 https://www.coca-cola.co.uk/sustainability/packaging-and-recycling/introducing-our-new-smartwater-bottle-made-from-100-recycled-plastic
 
 
+https://en.wikipedia.org/wiki/Glycerol
+
+
+
 
 
 
