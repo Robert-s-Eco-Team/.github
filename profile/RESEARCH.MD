@@ -18,6 +18,10 @@ See first link on Important Links section.
 5. Combine nitrogen dioxide with water to make nitric acid.
 ### Considerations
 To get nitrogen for making ammonia, we might team up with universities who have already done this to be given this ntriogen/nitrate, OR, we can use an alternative for nitric acid, as written below.
+### Freemium
+To deal with cheaper products, we'll have a 30-day free trial for our fertilizer
+because we're genuinely confident that this will work out, but if it hasn't gone
+well within the past 30 days, we'll send it back.
 ### Alternative for nitric acid
 *__Original Link: http://www.sciencemadness.org/talk/viewthread.php?tid=16330#:~:text=Alternative%20to%20Nitric%20acid%20%2Fresearch%201.%20Add%20Vinegar,as%20above.%20The...%203.%20Dissolve%20Cl2O%20in%20water%3A__*
 
