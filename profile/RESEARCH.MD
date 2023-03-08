@@ -22,6 +22,14 @@ To get nitrogen for making ammonia, we might team up with universities who have 
 To deal with cheaper products, we'll have a 30-day free trial for our fertilizer
 because we're genuinely confident that this will work out, but if it hasn't gone
 well within the past 30 days, we'll send it back.
+### Uric acid: extraction from purines
+
+Original Link: https://onlinelibrary.wiley.com/doi/10.1002/fft2.100
+
+
+2.1.3 Trifluoroacetic acid/formic acid hydrolysis
+
+Trifluoroacetic acid/formic acid hydrolysis is also a frequently used acid hydrolysis method. Compared to other acid hydrolysis methods, this method is characterized by a lower loss of hydrolyzed purines and a better hydrolysis effect. In one study, purines in beer were hydrolyzed by trifluoroacetic acid/formic acid (trifluoroacetic acid: formic acid, 1:1, v/v) and compared to hydrolysis by other acids. Through high-performance liquid chromatography (HPLC) analysis, it was found that the mixed acid (trifluoroacetic acid/formic acid) resulted in a better separation of the four purine bases compared to perchloric acid, phosphoric acid, acetic acid, and hydrochloric acid hydrolysis (Yuru, 2008). In another study, purines in seafood such as Lateolabrax japonicus, Scophthalmus maximus, and Scomberomorus niphonius, etc. were hydrolyzed with trifluoroacetic/formic acids (trifluoroacetic acid: formic acid : water, 5:5:1, v/v/v) over 90°C water bath for 12 min to extract purines (Qu et al., 2017). The HPLC analysis showed a purine recovery of 91.5–105.0%.
 ### Alternative for nitric acid
 *__Original Link: http://www.sciencemadness.org/talk/viewthread.php?tid=16330#:~:text=Alternative%20to%20Nitric%20acid%20%2Fresearch%201.%20Add%20Vinegar,as%20above.%20The...%203.%20Dissolve%20Cl2O%20in%20water%3A__*
 
